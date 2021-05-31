@@ -1,0 +1,8 @@
+{
+  "name": "to-do-websocket",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:damianfilipek81/to-do-websocket.git",
+  "author": "Damian <damianfilipek81@gmail.com>",
+  "license": "MIT"
+}
