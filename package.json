@@ -4,5 +4,12 @@
   "main": "index.js",
   "repository": "git@github.com:damianfilipek81/to-do-websocket.git",
   "author": "Damian <damianfilipek81@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "start": "npx nodemon server.js"
+  }
 }
